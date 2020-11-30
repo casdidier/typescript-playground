@@ -13,6 +13,10 @@
 ```tsc index.ts```
 
 
+## use of snippets :
+
+https://github.com/chibicode/TypeScript-for-Beginner-Programmers/tree/master/snippets/snippets
+
 ## Ressource
 
 https://ts.chibicode.com/todo/
