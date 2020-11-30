@@ -22,3 +22,5 @@ export const TodoListItem: React.FC<Props> = ({ todo }) => {
     </li>
   );
 };
+
+export default TodoListItem;
